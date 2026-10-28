@@ -14,3 +14,7 @@ npx tsx <folder-name>/<file-name>.ts
 > **Note:** Image generation is experimental and currently only available on macOS.
 
 - [image-generation/image-generation.ts](image-generation/image-generation.ts)
+
+### REPL
+
+- [repl/repl.ts](repl/repl.ts) - interactive chat CLI (`/clear`, `/model <name>`, `/exit`)
