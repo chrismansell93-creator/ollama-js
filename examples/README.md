@@ -22,3 +22,7 @@ npx tsx <folder-name>/<file-name>.ts
 ### Code Review
 
 - [code-review/code-review.ts](code-review/code-review.ts) - stream an LLM review of a local file
+
+### Expo
+
+- [expo/](expo/) - minimal React Native (Expo) chat app
