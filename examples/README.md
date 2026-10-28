@@ -18,3 +18,7 @@ npx tsx <folder-name>/<file-name>.ts
 ### REPL
 
 - [repl/repl.ts](repl/repl.ts) - interactive chat CLI (`/clear`, `/model <name>`, `/exit`)
+
+### Code Review
+
+- [code-review/code-review.ts](code-review/code-review.ts) - stream an LLM review of a local file
